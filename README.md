@@ -16,7 +16,7 @@
 </a>
 <a href="https://github.com/no1-coder" display="inline-block">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=no1-coder&layout=compact&theme=midnight-purple&cache_seconds=5&custom_title=Most%20Stuffs%20on:&langs_count=10&hide_border=True" float=left height=169/>
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=no1-coder &theme=radical&row=1&no-frame=true&no-bg=true" width=2000/>
+   <img align="center" src="https://github-profile-trophy.vercel.app/?username=no1-coder&theme=radical&row=1&no-frame=true&no-bg=true" width=2000/>
 </a>
 </p>
 
